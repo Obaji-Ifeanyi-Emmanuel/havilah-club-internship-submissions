@@ -6,13 +6,13 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name OBAJI IFEANYI EMMANUEL
+| GitHub Username Obaji-Ifeanyi-Emmanuel
+| Email Address obajiifeanyiemmanuel@gmail.com
+| Phone / WhatsApp +2348034328690
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
-| LinkedIn Profile | |
+| Programme Start Date 7/9/2026
+| LinkedIn Profile Cosmas Obaji
 
 ---
 
